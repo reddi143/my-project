@@ -1,0 +1,38 @@
+/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+/* Style for the heading */
+h2 {
+    color: #4CAF50;
+    text-align: center;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 10px;
+}
+
+/* Styling for line breaks and entities */
+body br {
+    display: block;
+    margin: 10px 0;
+}
+
+/* XMP block styling */
+xmp {
+    display: block;
+    background-color: #eee;
+    border: 1px solid #ccc;
+    padding: 10px;
+    font-family: "Courier New", Courier, monospace;
+    margin-top: 20px;
+    overflow-x: auto;
+}
+
+/* Emphasizing special characters */
+body {
+    word-spacing: 4px;
+}
